@@ -1,0 +1,22 @@
+# Project Information
+site_name: My Docs
+#site_url:
+site_author: Javier Hernández Fernández
+site_description: >-
+  Mkdocs-material version of my background, resume and articles about technical writing and documentation management.
+
+# Repository
+# repo_name:
+# repo_url:
+# edit_uri: edit/develop/docs/
+
+# Copyright
+copyright: Copyright &copy; 2023 Javier Hernández Fernández
+
+# Configuration
+theme:
+  name: material
+  custom_dir: overrides
+  static_templates:
+    - 404.html
+  

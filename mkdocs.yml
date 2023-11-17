@@ -48,8 +48,8 @@ theme:
     code: Roboto Mono
   favicon: assets/favicon.ico
   icon:
-    logo: assets/logo.svg
-  logo: assets/logo.svg
+    logo: assets/cube.png
+  logo: assets/cube.png
 
 
 # Extensions

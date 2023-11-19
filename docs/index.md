@@ -1,20 +1,14 @@
-# About Me       
+# Technical-Write Me
 
-## Presentation
+## Overview  
 
-**My name is Javier Hernández, alias _Doc_, and I'm a senior technical writer**. I love learning. That's why I'm a technical writer: to learn continuously (from users, developers and subject matter experts) and then being able to ease the process of how they communicate with each other. I communicate features, processes, designs and ideas. I share knowledge too with the community.  
+**My name is Javier Hernández, alias _Doc_, and I'm a senior technical writer**. This is my [experience repository and articles pond](https://javierhf.github.io/techdocs-me/) where you will find my resume and articles about technical writing, documentation management and other related topics about the job.   
 
-**It is all about learning the language and the needs of users,** finding a way for communication to be accomplished and feeding an agile and lean mindset. Software development projects are one of the best environments for that.
+I use mkdocs-material as static-site generator and GitHub Actions (_Coming soon!_) to automate the deployment of the pages.
 
-For example, now I am keep on learning Python programming, prompting in Large Language Models and GitHub Actions to draft complete my tool set and provide more value to my teams.
+Hope you find it useful.
 
-Sound cool, right?    
+## Additional Links  
 
-## Resume Overview  
-
-_TBD_
-
-
-
-
-
+* [Techdocs-me](https://javierhf.github.io/techdocs-me/).
+* [LinkedIn Profile](https://www.linkedin.com/in/javier-hernandez-fernandez/).

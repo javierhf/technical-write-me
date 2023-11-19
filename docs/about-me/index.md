@@ -23,7 +23,7 @@ Sound cool, right?
 
 !!! info "Info"  
 
-    Check my [LinkedIn Profile](https://www.linkedin.com/in/javier-hernandez-fernandez/) for a detail description.  
+    Check my [LinkedIn Profile](https://www.linkedin.com/in/javier-hernandez-fernandez/) for more information.  
 
 
 

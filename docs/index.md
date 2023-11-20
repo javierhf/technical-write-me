@@ -5,11 +5,16 @@
 
 ## Overview  
 
-**My name is Javier Hernández, alias _Doc_, and I'm a senior technical writer**. This is my experience repository and articles pond where you will find my resume and articles about technical writing, documentation management and other related topics about the job.   
+**Welcome to Technical-docss-me your place to read about technical writing.** You will finde here articles about technical writing cooked from my experience in the field. I believe that by sharing knowlege we can build a better society of learning, improving and growth.  
 
-**I use [mkdocs-material](https://squidfunk.github.io/mkdocs-material/) as static-site generator** and GitHub Actions (_Coming soon!_) to automate the deployment of the pages.
+**Whether you're a seasoned professional, need some help with your documentation project, or just you're starting your journey in technical writing,** I hope you find this place useful.
 
-Hope you find it useful.  
+_Happy documenting!_   
+
+!!! info "Info"  
+
+    I use [mkdocs-material](https://squidfunk.github.io/mkdocs-material/) as static-site generator. GitHub Actions will be here soon to automate the deployment of site.
+ 
 
 ## Briefing About My Previous Projects  
 

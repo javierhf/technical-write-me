@@ -43,7 +43,11 @@ _How do we support this separation of responsabilities?_
 | ------------- | --------------- |    
 | **Collaborators** | Provide the information:<ol><li>which is correct</li><li>in the right order</li><li>in the right context.</li></ol> |  
 | **Reviewers** |	Validate the information provided by collaborators when required. |  
-| **Technical Writer** | <ol><li>Converts information into content.</li><li>Manages the ESG and the improvement processes and communication.</li><ol> |
+| **Technical Writer** | <ol><li>Converts information into content.</li><li>Manages release process.</li><ol> |  
+
+**By specifying the responsabilities for every role** involed in our documentation we ensure that they will effectively focus where they provide more value, delegating the _content and release_ tasks to the technical writer.  
+
+## How Does This Impact the Ownership of the Documentation?
 
 
 

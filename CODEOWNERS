@@ -1,0 +1,8 @@
+# File required to implement default reviewers
+# Reference:
+# - https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners#codeowners-syntax
+# - https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/managing-a-branch-protection-rule
+
+
+*                                                                   
+docs/*                                                            

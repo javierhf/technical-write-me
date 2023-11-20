@@ -3,7 +3,7 @@ site_name: Technical-Write Me
 # site_url:
 site_author: Javier Hernández Fernández
 site_description: >-
-  My technical writer resume and articles about technical writing related topics
+  My technical writer resume and articles about technical writing-related topics
 
 # Repository
 # repo_name: 
@@ -104,4 +104,5 @@ nav:
           - First Steps: improving-documentation-projects/part-1/index.md  
           - Getting Feedback from Your Users: improving-documentation-projects/part-2/index.md  
           - Actioning Our Users' Feedback: improving-documentation-projects/part-3/index.md 
+      - Single-Responsibility Principle for Documentation Projects: single-responsibility-principle/index.md
   - About Me: about-me/index.md

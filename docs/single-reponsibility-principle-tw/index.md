@@ -24,7 +24,7 @@ The word "reason" caused some controversy within the community** so he had to pr
 
 **That is one of the benefits of having a technical writer:**  your team memmbers can fixate their attention on their specialized tasks while the technical writer focus on converting the information into content.   
 
-How do we support this separation of responsabilities?
+_How do we support this separation of responsabilities?_
 
 ## Single-Responsibility Principle for Developer Documentation  
 
@@ -37,12 +37,13 @@ How do we support this separation of responsabilities?
 | **Content** |	Content is the information after being transformed into a standardize user-center structure, layout and text formatting, following technical writing and UX best practices. layout and formatting.<br>As result, the time needed to find and understand the information decreases, while increasing the user experience. |  
 | **Ownership** | 	Scope of tasks and responsibilities of each role keeping in mind that the documentation entails a _shared ownership_. |  
 
-**These concepts allows us to define our roles** and the scope of their responsibilities:  
+**Then we can define a minimum set of roles** and the scope of their responsibilities:  
 
 | Role | Responsibility |  
-| ------------- | --------------- |  
-| **Collaborator** |  |  
-| **Technica Writer** | |
+| ------------- | --------------- |    
+| **Collaborators** | Provide the information:<ol><li>which is correct</li><li>in the right order</li><li>in the right context.</li></ol> |  
+| **Reviewers** |	Validate the information provided by collaborators when required. |  
+| **Technical Writer** | <ol><li>Converts information into content.</li><li>Manages the ESG and the improvement processes and communication.</li><ol> |
 
 
 

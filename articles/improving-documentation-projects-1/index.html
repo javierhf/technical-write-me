@@ -1,0 +1,913 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="My technical writer resume and articles about technical writing-related topics">
+      
+      
+        <meta name="author" content="Javier Hernández Fernández">
+      
+      
+      
+        <link rel="prev" href="../">
+      
+      
+        <link rel="next" href="../improving-documentation-projects-2/">
+      
+      
+      <link rel="icon" href="../../assets/favicon.ico">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.4.9">
+    
+    
+      
+        <title>First Steps - Technical-Write Me</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.78cf6014.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.356b1318.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="light-blue">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#improving_an_existing_developer_documentation_1_of_3" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Technical-Write Me" class="md-header__button md-logo" aria-label="Technical-Write Me" data-md-component="logo">
+      
+  <img src="../../assets/cube.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Technical-Write Me
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              First Steps
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="light-blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="black" data-md-color-accent="light-blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../" class="md-tabs__link">
+          
+  
+  Articles
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../about-me/" class="md-tabs__link">
+        
+  
+    
+  
+  About Me
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Technical-Write Me" class="md-nav__button md-logo" aria-label="Technical-Write Me" data-md-component="logo">
+      
+  <img src="../../assets/cube.png" alt="logo">
+
+    </a>
+    Technical-Write Me
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Articles
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Articles
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Overview
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Improving Your Documentation Project
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Improving Your Documentation Project
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    First Steps
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    First Steps
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#first_steps" class="md-nav__link">
+    <span class="md-ellipsis">
+      First Steps
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#know_your_ground" class="md-nav__link">
+    <span class="md-ellipsis">
+      Know Your Ground
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Know Your Ground">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#step_1_-_organize_your_improvement_project" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 1 - Organize Your Improvement Project
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Step 1 - Organize Your Improvement Project">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#space_structure" class="md-nav__link">
+    <span class="md-ellipsis">
+      Space Structure
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step_2_-_identify_your_documentation_issues" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 2 - Identify Your Documentation Issues
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../improving-documentation-projects-2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Getting Feedback from Your Users
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../improving-documentation-projects-3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Actioning Our Users' Feedback
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../single-responsibility-principle-tw/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Single-Responsibility Principle for Documentation Projects
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../about-me/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    About Me
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#first_steps" class="md-nav__link">
+    <span class="md-ellipsis">
+      First Steps
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#know_your_ground" class="md-nav__link">
+    <span class="md-ellipsis">
+      Know Your Ground
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Know Your Ground">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#step_1_-_organize_your_improvement_project" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 1 - Organize Your Improvement Project
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Step 1 - Organize Your Improvement Project">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#space_structure" class="md-nav__link">
+    <span class="md-ellipsis">
+      Space Structure
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step_2_-_identify_your_documentation_issues" class="md-nav__link">
+    <span class="md-ellipsis">
+      Step 2 - Identify Your Documentation Issues
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="improving_an_existing_developer_documentation_1_of_3">Improving an Existing Developer Documentation (1 of 3)<a class="headerlink" href="#improving_an_existing_developer_documentation_1_of_3" title="Permanent link">#</a></h1>
+<blockquote>
+<p><strong>What this article covers</strong><br />
+<em>First steps on how to improve an existing documentation project.</em> <br />
+<strong>Tools</strong><br />
+<em>Confluence, GitHub web and desktop versions, and MarkdownPad2.</em>  </p>
+</blockquote>
+<h2 id="first_steps">First Steps<a class="headerlink" href="#first_steps" title="Permanent link">#</a></h2>
+<p><strong>Developer Documentation is a curated set of files</strong> describing all the active <em>workflows</em>, <em>setups</em>, <em>tools</em>, <em>conventions</em>, <em>best practices</em>, and <em>How-tos</em> of your software development product. Through this article, I will refer to it as "documentation" or "docs".</p>
+<p>Documentation supports your team members in their daily and future developments. It also helps new joiners to reach cruise speed during the onboarding period. <em>But to do so, your documentation must be up-to-date and well-structured</em>. </p>
+<p>Keeping the docs up-to-date and in good shape requires resources and dedicated time. Yet often our project time or budget constraints prevent us from taking care of our docs properly. </p>
+<p>This series of articles aims to serve as a documentation improvement guide. </p>
+<h2 id="know_your_ground">Know Your Ground<a class="headerlink" href="#know_your_ground" title="Permanent link">#</a></h2>
+<h3 id="step_1_-_organize_your_improvement_project">Step 1 - Organize Your Improvement Project<a class="headerlink" href="#step_1_-_organize_your_improvement_project" title="Permanent link">#</a></h3>
+<p><strong>Developer documentation has to be visible</strong> to increase the chances of success, and to find collaborators (to improve it). To do so, keeping a <em>space</em> to visualize, describe and track your improvement project is a useful idea.  </p>
+<p><strong>Use your teams/company collaboration tool</strong> for that purpose. For this article, we'll be using Confluence.    </p>
+<h4 id="space_structure">Space Structure<a class="headerlink" href="#space_structure" title="Permanent link">#</a></h4>
+<p><strong>The structure of an improvement project may differ</strong> from one project to another. Take the following <em>space</em> structure as a reference that you can adapt to your needs (<em>then iterate!</em>):    </p>
+<table>
+<thead>
+<tr>
+<th>Space Name</th>
+<th>Page Name</th>
+<th>Child Page</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>[Your Documentation Project´s Name]</strong></td>
+<td></td>
+<td></td>
+<td>Name of your documentation project.</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Overview</strong></td>
+<td></td>
+<td>Explain briefly the What, Why and How of the documentation.</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Dashboard</strong></td>
+<td></td>
+<td>Centralized page to easily access all project pages.</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Analysis</strong></td>
+<td></td>
+<td>Media and results of documentation analysis.</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Roadmap</strong></td>
+<td></td>
+<td>Visualization of the estimated dates to implement each improvement.</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Improvement Project</strong></td>
+<td><em>Communication Grid</em></td>
+<td>Contact person by topic.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><em>Improvement Plan</em></td>
+<td>Implementation phases and items.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><em>Coordination Meetings</em></td>
+<td>Grid to align with your manager or collaborators (<em>Optional</em>).</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Once your improvement project space is set up,</strong> you are ready to:</p>
+<ul>
+<li>Present it to all your team members, including Product Owners and Scrum Masters.  </li>
+<li>Track and show your progress.  </li>
+<li>Visualize documentation issues/blocking points.  </li>
+<li>Access all your project resources.  </li>
+</ul>
+<blockquote>
+<p><strong>Tip:</strong> Explain how documentation issues negatively impact teams´ performance. It will help Product Owners and Scrum Masters to understand and provide your project with the resources you need.</p>
+</blockquote>
+<h3 id="step_2_-_identify_your_documentation_issues">Step 2 - Identify Your Documentation Issues<a class="headerlink" href="#step_2_-_identify_your_documentation_issues" title="Permanent link">#</a></h3>
+<p><strong>Identifying your documentation issues means</strong> spotting all the types of issues living among your docs. Some documentation issues are:  </p>
+<ul>
+<li>Grammar, spelling and syntax errors.  </li>
+<li>Confusing/Not logical page structure.  </li>
+<li>Unclear/Verbose text.</li>
+</ul>
+<p>In the following table, you can learn a little more about the main documentation issues:</p>
+<table>
+<thead>
+<tr>
+<th>Documentation Issue</th>
+<th>Fix strategy</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Grammar, spelling, syntax</strong></td>
+<td>Use a text checker to support your writing. Some good options are <a href="https://app.grammarly.com/">Grammarly</a>, <a href="https://hemingwayapp.com/">Hemingway</a> or <a href="https://quillbot.com/grammar-check">QuillBot</a>.</td>
+</tr>
+<tr>
+<td><strong>Page structure</strong></td>
+<td>Review your page structure. It shows the logical flow of the information contained according to the objective of the page, for example: <em>Introduction</em>, <em>Prerequisites</em>, <em>First Step</em>, <em>Working with.../Available Features</em>.</td>
+</tr>
+<tr>
+<td><strong>Naming</strong></td>
+<td>Define a naming strategy for page titles, sections and subsections.</td>
+</tr>
+<tr>
+<td><strong>Page elements</strong></td>
+<td>Standardize the use of the following elements: lists, tables, tabs, notes, collapsible elements and images.</td>
+</tr>
+<tr>
+<td><strong>Text unclear</strong> or <strong>too verbose</strong></td>
+<td>Be concise.</td>
+</tr>
+<tr>
+<td><strong>Random text formatting</strong></td>
+<td>Standardize the use of bold and italics for files, folder names, code snippets and code elements (functions, objects, methods, parameters, API names, etc.).</td>
+</tr>
+<tr>
+<td><strong>Too many topics on a single page</strong></td>
+<td>Stick to "One topic per page".</td>
+</tr>
+<tr>
+<td><strong>Unnecessary screenshots</strong></td>
+<td>Use screenshots or images <em>ONLY</em> when strictly necessary. If you can explain it briefly, do not use screenshots.</td>
+</tr>
+<tr>
+<td><strong>Type of notes</strong></td>
+<td>Standardize each type of use case for notes (Info, Help, Warning, etc.).</td>
+</tr>
+</tbody>
+</table>
+<p><em>To Be Continued…</em>  </p>
+<blockquote>
+<p><strong>What`s Next?</strong><br />
+<em>In the next article, we will describe how to run a user survey to gather useful feedback from your users/readers. This invaluable feedback will help us prioritize the documentation issues to fix first.</em></p>
+</blockquote>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2022 Javier Hernández Fernández
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.instant", "navigation.tabs", "header.autohide", "search.suggest"], "search": "../../assets/javascripts/workers/search.f886a092.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.6c14ae12.min.js"></script>
+      
+    
+  </body>
+</html>

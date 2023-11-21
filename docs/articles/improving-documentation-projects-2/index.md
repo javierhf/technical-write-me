@@ -8,7 +8,7 @@
  
 ## Getting Feedback from Your Users     
 
-**Now that we know the current status of our documentation better** (_See [Part 1](https://javierhf.github.io/technical-write-me/improving-documentation-projects/part-1/)_, it is time to talk about our users. Why? Because we have created the documentation for them to be able to use our products, platforms or tools. 
+**Now that we know the current status of our documentation better** (_See [Part 1](https://javierhf.github.io/technical-write-me/articles/improving-documentation-projects-1/)_), it is time to talk about our users. Why? Because we have created the documentation for them to be able to use our products, platforms or tools. 
 
 
 **But what do we know about our users' needs? Who are they?** We may all have assumptions about them. But in fact, we know nothing most of the time.  

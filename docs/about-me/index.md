@@ -2,24 +2,26 @@
 
 ## Presentation
 
-**My name is Javier Hernández, alias _Doc_, and I'm a senior technical writer**. I love learning. That's why I'm a technical writer: to learn continuously (from users, developers and subject matter experts) and then being able to ease the process of how they communicate with each other.   
+**My name is Javier Hernández, alias _Doc_, and I'm a senior technical writer**. I love learning, that's why I'm a technical writer:   
 
-*I communicate ideas, concepts, features, processes and designs, and support development teams.*  
+* to learn continuously (from users, developers and subject matter experts)  
+* to be able to ease the process of how they communicate with each other  
+* to help product development team to achieve their documentation goals
 
-**It is all about learning the language and the needs of users,** finding a way for communication to be accomplished and feeding an agile and lean mindset. Software development projects are one of the best environments for that.
+**Technical writing is all about learning the language and the needs of your readers (developers, end-suers, subject-matter experts),** and then finding a way for communication to be accomplished. 
 
 **Now I am learning** Python (for AI and scripting), Large Language Models (LLMs) _prompting_ and GitHub Actions.
 Sound cool, right?    
 
-## Resume Overview  
+## About My Previous Projects  
 
-**The following table provides a quick overview** of my technical writer professional experience:
+**I have a hybrid background (Computer Network manager, translator and poet)** which allows me to be always prone to learn and keep in mind the user's point of view. That's why learning is always a requirement for any new project.   
 
-| Company | Job | My Achievements |  
-|--------- | ----- | --------- |  
-| **Mercedes Benz.io** | Senior Technical Writer | <ul><li>Identify documentation issues and prioritize improvements' implementation</li><li>Design and implement the developer documentation style guide.</li><li>Improve the documentation workflow to allow developers focus on coding.</li><li>Identify automation opportunities and implement them.</li><li>Implement quality checks for grammar, vocabulary and links.</li><li>Create and maintain a collaborators' community.</li><li>Increase documentation awareness by implementing a communication strategy and running regular user surveys.</li><li>Support external teams to improve their documentation projects.</li><li>Design and implement a documentation standardization strategy.</li></ul> |  
-| **Infinera** | Technical Writer | _To Be Added_|  
-| **Aplicaciones Informáticas Domingo Alonso** | <ul><li>Technical Writer</li><li>UX Writer</li><li>UX Facilitator</li></ul> | _To Be Added_ |    
+**Mercedes-Bez.io, Infinera and Aplicaciones Informáticas Domingo Alonso (AIDA)** are my latest technical documentation projects. Each of them has a special place in my jorney as a professional:  
+
+* [Mercedes-Benz.io](https://www.mercedes-benz.io/) - My latest project (2021 - 2023). Here I could apply all of my previous learnings and ideas regarding project management, community building, communication strategy and improvement planning and prioritization.  
+* [Infinera](https://www.infinera.com/) - This was the place where my project management skills were consolidated.  
+* [Aplicaciones Informáticas Domingo Alonso (AIDA)](https://www.domingoalonsogroup.com/en/branchs/aida) -  My first technical writing project where I learn the fundamentals, UX Design and the Agile mindset.   
 
 !!! info "Info"  
 

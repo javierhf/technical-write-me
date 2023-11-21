@@ -8,7 +8,7 @@
  
 ## Actioning Your Users' Feedback     
 
-**Now that we know the current status of our documentation better** (_See [part 1](https://www.mercedes-benz.io/2023/01/18/improving-your-development-documentation-project/_)) and we have gathered feedback from our users (_See [part 2](https://javierhf.github.io/technical-write-me/improving-documentation-projects/part-3/)_), it is time to analyze the results of our survey. Based on that we should then find out which improvement actions we can extract from it.  
+**Now that we know the current status of our documentation better** (_See [part 1](https://javierhf.github.io/technical-write-me/improving-documentation-projects/improving-documentation-project-1/)_) and we have gathered feedback from our users (_See [part 2](https://javierhf.github.io/technical-write-me/improving-documentation-projects/improving-documentation-projects-3/)_), it is time to analyze the results of our survey. Based on that we should then find out which improvement actions we can extract from it.  
 
 For this article I'm providing some screenshots of the results of a real developer documentation survey.  
 

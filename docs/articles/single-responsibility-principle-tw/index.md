@@ -1,4 +1,5 @@
-# Single-Responsibility Principle for Documentation Projects   
+# Single-Responsibility Principle for Documentation Projects     
+
 ## Overview  
 
 **According to Wikipedia the Single-Responsibility Principle (SRP) is:**  
@@ -13,7 +14,7 @@ The word "reason" caused some controversy within the community** so he had to pr
 
 !!! info "Info"  
 
-    Learn more about [Single-Responsability Principle](https://en.wikipedia.org/wiki/Single-responsibility_principle) in Wikipedia.    
+    Learn more about [Single-Responsibility Principle](https://en.wikipedia.org/wiki/Single-responsibility_principle) in Wikipedia.    
 
     
 ## Roles in a Documentation Project  
@@ -45,10 +46,9 @@ _How do we support this separation of responsibilities?_
 | **Reviewers** |	Validate the information provided by collaborators when required. |  
 | **Technical Writer** | <ol><li>Converts information into content.</li><li>Manages release process.</li><ol> |  
 
-**By specifying the responsibilities for every role** involved in our documentation we ensure that they will effectively focus where they provide more value, delegating the _content and release_ tasks to the technical writer.  
+**By specifying the responsibilities for every role** involved in our documentation we ensure that they our teammates will focus in those areas where they provide more value, delegating the _content creation and release_ tasks to the technical writer.  
 
-## How Does This Impact the Ownership of the Documentation?
-
+_Can you already see the benefits of this?_
 
 
      

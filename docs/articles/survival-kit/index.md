@@ -53,13 +53,15 @@ Of course, if we can find a middle way we'll double the benefits.
 
    Working on your documentation on a daily basis sounds non-business objectives compliant. Doing it on a weekly basis seems more realistic and flexible.
 
-### Step 2 - Fix the Most Common Issues    
+### Step 2 - Own the Basic Good Practices    
 
-_TBD_
+**Google, Microsoft, Apple and IBM have their own guidelines and best practices.** It always good to check them from time to time. However, if your availability is not that good, the following table provides some basic good practices you can apply:  
 
-### Step 3 - Own the Basic Good Practices  
+| Topic | Remark |  
+| ------------ | ---------------------- |  
+| | |  
+|  |    |
 
-_TBD_    
 
 ## Documentation Structure Reference
 

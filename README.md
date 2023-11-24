@@ -2,31 +2,14 @@
 
 ## Overview  
 
-**Welcome to Technical-docs-me your place to read about technical writing.** You will find here articles about technical writing cooked from my experience in the field. I believe that by sharing knowledge we can build a better society of learning, improving and growth.  
+**Welcome to Technical-docs-me your place to read about technical writing.** I'm Javier Hernández Fernández, a technical and UX writer, translator and poeta, with a crush in AI and scripting.   
 
-**Whether you're a seasoned professional, need some help with your documentation project, or just you're starting your journey in technical writing,** I hope you find this place useful.
+**In this site you will find technical writing articles** that I've cooked from my experience in the field.   
 
-_Happy documenting!_  
+Whether you're a seasoned professional, need some help with your documentation project, or you are just starting your journey in technical writing, I hope you find this place useful.
 
+_Happy reading!_  
 
-## Repository Structure    
-
-In the following table you will find an overview of this repository just for descriptive purposes:  
-
-| Folder/ File | Description |  
-| ------------- | ---------------- |  
-| | |  
-| | |  
-| | |  
-| | |  
-| | |  
-| | |  
-| | |  
-| | |    
-| | |  
-| | |
-
-_Coming soon!_
 
 ## Additional Links  
 

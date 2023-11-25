@@ -1,6 +1,6 @@
 # About Me       
 
-## Presentation
+## Overview
 
 **My name is Javier Hernández, alias _Doc_, and I'm a senior technical writer**. I love learning, that's why I'm a technical writer:   
 
@@ -13,7 +13,7 @@
 **Now I am learning** Python (for AI and scripting), Large Language Models (LLMs) _prompting_ and GitHub Actions.
 Sound cool, right?    
 
-## About My Previous Projects  
+## Previous Projects  
 
 **I have a hybrid background (Computer Network manager, translator and poet)** which allows me to be always prone to learn and keep in mind the user's point of view. That's why learning is always a requirement for any new project.   
 

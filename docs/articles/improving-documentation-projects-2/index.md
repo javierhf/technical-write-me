@@ -1,4 +1,8 @@
 
+---
+title: Improving an Existing Developer Documentation (2 of 3) 
+---   
+
 # Improving an Existing Documentation Project (2 of 3)    
 
 > **What this article covers**  

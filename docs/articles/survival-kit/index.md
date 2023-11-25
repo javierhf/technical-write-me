@@ -1,3 +1,8 @@
+---
+title: Developer Documentation Survival Kit 
+status: new
+---  
+
 # Developer Documentation Survival Kit   
 
 !!! help ""  

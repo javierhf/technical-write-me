@@ -14,6 +14,8 @@ copyright: Copyright &copy; 2023 Javier Hernández Fernández
 
 # Configuration
 theme:
+  icon:
+    repo: fontawesome/brands/git-alt
   name: material
   static_templates:
     - 404.html
@@ -27,8 +29,9 @@ theme:
   features:
     # - navigation.indexes
     - navigation.instant
+    - navigation.instant.progress
     - navigation.tabs
-    - header.autohide
+    - navigation.tabs.sticky
     - search.suggest
   palette:
     - scheme: default
@@ -36,7 +39,7 @@ theme:
       accent: light blue
       toggle:
         icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
+        name: Switch to dark mode    
     - scheme: slate
       primary: black
       accent: light blue
@@ -50,6 +53,11 @@ theme:
   icon:
     logo: assets/cube.png
   logo: assets/cube.png
+
+  extra:
+  status:
+    new: Recently added
+    deprecated: Outdated article
 
 
 # Extensions

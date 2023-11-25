@@ -1,3 +1,8 @@
+---
+title: Single-Responsibility Principle for Documentation Projects   
+status: new
+---   
+
 # Single-Responsibility Principle for Documentation Projects     
 
 ## Overview  

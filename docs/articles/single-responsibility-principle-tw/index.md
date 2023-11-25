@@ -24,36 +24,45 @@ The word "reason" caused some controversy within the community** so he had to pr
     
 ## Roles in a Documentation Project  
 
-**Documentation projects may include some of the following roles:** _subject-matter experts (SME), _collaborators_, _reviewers_, _translators_ and _managers_. Ideally, we'll have a single persona fitting a single role (and responsibility) but we know that is not always possible.   
+**Documentation projects may include the following roles:** _collaborators_, _editor_ (reviewers), _technical writers_, _translators_ and _managers_. Ideally, we'll have a single person for each role, but we all know the truth: _the real world does not work like this_.   
 
-**In many developer documentation projects technical writers absorb multiple roles:** they are _reviewers_ (editors) and _managers_ at the same time. This allows other  _collaborators_ (developers, subject-matter experts, testers, Product Owners, etc.) to focus on their specific tasks. the where they provide more value.   
+**Lucky for us we have technical writers, a role that absorb many of the previous roles:**  
 
-**That is one of the benefits of having a technical writer:**  your team members can fixate their attention on their specialized tasks while the technical writer focus on converting the information into content.   
+* They edit the collaborations from other team members.  
+* They manage the documentation project and platform.  
+* They collaborate with new content actively.    
+  
+**Having a technical writer in your team** allows  _collaborators_ (developers, subject-matter experts, testers, Product Owners (POs), etc.) to *focus where they provide more value*. In other words, after providing new information, developers can focus on coding, testers in testing and POs in owning the product while the technical writer converts the information into effective, awesome content.   
 
-_How do we support this separation of responsibilities?_
+But _how do we apply and support this separation of responsibilities?_
 
-## Single-Responsibility Principle for Developer Documentation  
+## Single-Responsibility Principle (SRP) for Documentation Projects
 
-**To support the single-responsibility principle in documentation projects** we can start by describing the ideas of _information_, content_ and _ownership_ as shown in the following table:   
+**Even if it seems simple, applying the SRP to documentation projects** requires a little change in the product team's mindset:  
+
+* Now they will provide the information.  
+* The technical write will create the content  
+
+### Key Concepts  
+
+**To understand the change** that the SRP introduces in the management of a documentation project, let's have a look at the following table:   
 
 
 | Concept | Description |  
 |------------- | ------------------- |  
-| **Information** |	Information is all the required introduction and instruction texts (steps), feature and code descriptions (library, parameters, snippets, endpoints, etc), screenshots and raw data that the collaborator provides as an _information draft_ with a basic structure.|  
-| **Content** |	Content is the information after being transformed into a standardized user-center structure, layout, and text formatting, following technical writing and UX best practices. layout and formatting.<br>As a result, the time needed to find and understand the information decreases, while increasing the user experience. |  
-| **Ownership** | 	Scope of tasks and responsibilities of each role keeping in mind that the documentation entails a _shared ownership_. |  
+| **Information** |	Information is the all pieces of text (introduction, instruction steps, feature and code descriptions (library, parameters, snippets, endpoints, etc), screenshots and raw data provided by collaborator as _information draft_ with a basic structure.|  
+| **Content** |	Content is the information after being transformed into a standardized output, applying a style guide and technical writing best practices to the page structure and layout, and the text formatting to allow readers to easily find and understand the information the need. |  
+| **Shared Ownership** | Since every single page is the result of the work of different collaborators (roles), the team owns the documentation. |  
 
-**Then we can define a minimum set of roles** and the scope of their responsibilities:  
+**Keeping this concepts in mind** we can define the following roles and their responsibilities:  
 
 | Role | Responsibility |  
 | ------------- | --------------- |    
-| **Collaborators** | Provide the information:<ol><li>which is correct</li><li>in the right order</li><li>in the right context.</li></ol> |  
-| **Reviewers** |	Validate the information provided by collaborators when required. |  
+| **Collaborators** | Provide information which:<ol><li> is correct</li><li>is in the right order</li><li>is in the right context.</li></ol> |  
+| **Reviewers** |	Validate the information provided by collaborators when required.|  
 | **Technical Writer** | <ol><li>Converts information into content.</li><li>Manages release process.</li><ol> |  
 
-**By specifying the responsibilities for every role** involved in our documentation we ensure that they our teammates will focus in those areas where they provide more value, delegating the _content creation and release_ tasks to the technical writer.  
-
-_Can you already see the benefits of this?_
+**This is the little mindset change** that will guide us to a quality documentation and ensure that everyone in the team focus where they provide more value.
 
 
      

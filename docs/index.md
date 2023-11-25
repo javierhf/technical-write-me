@@ -1,15 +1,15 @@
 # Technical-Write Me  
-!!! warning "Under construction"  
-
-    This site is under construction. _Stay tuned!_
 
 ## Overview  
 
-**Welcome to Technical-docs-me your place to read about technical writing.** You will find here articles about technical writing cooked from my experience in the field.   
+**Welcome to Technical-docs-me your place to read about technical writing.** You will find here articles about technical writing freshly cooked from my experience in the field.   
 
-**Techdocs-docs-me gas a double purpose** serve as my professional portfolio and my contribution to the community because I believe that by sharing knowledge we can build a better society.  
+**Techdocs-docs-me has a double purpose:** 
 
-**Whether you're a technical writer professional or need some help with your documentation project,** I hope you find this place useful.
+* Serve as my professional portfolio
+* Contribute to the community with my experience.
+
+**Whether you're a technical writer or an IT professional** needing some help with your documentation project, I hope you find this place useful.
 
 _Happy reading and documenting!_   
 

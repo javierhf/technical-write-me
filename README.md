@@ -4,10 +4,10 @@
 
 **Welcome to Technical-docs-me, your place to read about technical writing.** I'm Javier Hernández Fernández, a technical and UX writer, translator and poet, with a crush in AI and scripting.   
 
-**In this site you will find** articles about technical writing (freshly cooked from my experience) and access to my LinkedIn profile.   
+**In this site you will find articles about technical writing** (freshly cooked from my experience), and access to my LinkedIn profile.   
 
 
-Whether you're a technical writer professional or need some help with your documentation project, I hope you find this place useful.
+Whether you're a technical writer professional or need some help with your documentation project, I hope you find this articles useful.
 
 _Happy reading and documenting!_  
 

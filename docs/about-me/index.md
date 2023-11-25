@@ -2,22 +2,21 @@
 
 ## Overview
 
-**My name is Javier Hernández, alias _Doc_, and I'm a senior technical writer**. I love learning, that's why I'm a technical writer:   
+**My name is Javier Hernández, alias Doc, and I'm a senior technical writer.** I love learning, that's why I'm a technical writer:  
 
-* to learn continuously (from users, developers and subject matter experts)  
-* to be able to ease the process of how they communicate with each other  
-* to help product development team to achieve their documentation goals
+* to learn continuously (from users, developers, and subject-matter experts)  
 
-**Technical writing is all about learning the language and the needs of your readers (developers, end-suers, subject-matter experts),** and then finding a way for communication to be accomplished. 
+* to be able to ease the process of how they communicate with each other  
 
-**Now I am learning** Python (for AI and scripting), Large Language Models (LLMs) _prompting_ and GitHub Actions.
-Sound cool, right?    
+* to help the product development team achieve their documentation goals
+
+**Technical writing is all about learning** the language and the needs of your readers  and finding a way for successful communication.   
 
 ## Previous Projects  
 
-**I have a hybrid background (Computer Network manager, translator and poet)** which allows me to be always prone to learn and keep in mind the user's point of view. That's why learning is always a requirement for any new project.   
+**I'm a computer network manager, and translator (a literary critic and a poet too).** This hybrid background allows me to be always prone to learn and keep in mind the users' (readers') point of view. That's why learning is one of my requirements to get involved in a new project.  
 
-**Mercedes-Bez.io, Infinera and Aplicaciones Informáticas Domingo Alonso (AIDA)** are my latest technical documentation projects. Each of them has a special place in my journey as a professional:  
+**Check the following table** to read a quick overview of my latest projects. Each of them has a special place in my journey as a professional:  
 
 |Project | Long Story Short |  
 | ---------- | ----------------- |  

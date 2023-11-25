@@ -7,17 +7,19 @@ status: new
 
 !!! help ""  
 
-    Taking care of your documentation makes your work more efficient, and contributes to your users' satisfaction.
+    Good documentation makes your work more efficient, and contributes to your users' satisfaction.
 
 ## Overview  
 
-**Product development project benefits from maintaining a good and effective documentation.** However, development teams are usually tied by strong budget constraints when it comes to hire a technical writer.   
+**Product development project benefits from having good and effective documentation.** However, budget constraints are often an obstacle to achieving that goal by hiring a technical writer.  
 
-**This articles aims to offer a easy to handle swiss knife,** armed with the key ideas you can apply to manage and improve your documentation project.   
+**This article offers an easy-to-handle Swiss knife** with the key ideas you need to manage and improve your documentation project.  
 
-But remember, managing and improving a documentation project requires the *commitment and of all management roles and the development teams*.
+## Prerequisites   
 
-## Prerequisites  
+!!! info "Info"  
+
+    Improving any documentation project, requires the commitment of both management roles and  development teams.
 
 - [x] Commitment to improve/manage your documentation
 - [x] Direct communication with management roles 
@@ -25,7 +27,7 @@ But remember, managing and improving a documentation project requires the *commi
 
 ## Swiss Knife    
 
-**The swiss knife to manage and improve documentation projects** includes the following set of fundamental blades:  
+**The swiss knife to manage and improve documentation projects** includes the following set of fundamental ideas (blades):  
 
 * Know Your Ground  
 * Know Your Documentation Needs  
@@ -35,11 +37,13 @@ But remember, managing and improving a documentation project requires the *commi
 
 In the following sections we'll talk more about these _blades_.  
 
-## Blade 1 - Knowing Your Ground  
+### Blade 1 - Knowing Your Ground  
 
-**Know your ground before taking any further step.** Knowing your ground means _to know the deficiencies of our documentation_, and _identify what is preventing it from being successfull and effective_.  
+**Know your ground before taking any further step.** Knowing your ground means: 
 
-**To know your ground you have to analyse your documentation** for example considering the elements of following checklist:
+> To know the deficiencies of our documentation, and identify what is preventing it from being successfull and effective.  
+
+**To know your ground, analyse your documentation** and consider the following checklist:
 
 - [ ] My documentation provide all the information any user needs to understand:   
 > - _What it is_  
@@ -52,21 +56,18 @@ In the following sections we'll talk more about these _blades_.
 - [ ] A clear workflow is implemented to review and update the documentation  
 - [ ] My documentation mirror the natural workflow of regular users. 
 
- **Those items you have not ticked** are the onw you need to tackle:  
- 
- > "That's one small step for man, one giant leap for ~mankind~ my documentation."   
- 
- Knowing your ground can be a terrifying experience leaving in a hopeless-like state of mind. But despair do not! Be patient, take small steps. Then _iterate!_    
+**The items you have not ticked** are the ones you need to tackle  
+
+Knowing your ground can be a terrifying experience leaving in a hopeless-like state of mind. But despair do not! Be patient, take small steps. Then _iterate!_    
 
 
-## Blade 2 - Know Your Documentation Needs     
+### Blade 2 - Know Your Documentation Needs     
 
 **If the Oracle of Delphi had managed documentation,** it might have said:   
 
 > "Know your documentation needs."  
 
 **Knowing your documentation needs helps you to contextualize** the insights you've gained using the _knowing your ground_ blade.  
-
 
 **To know our documentation needs** answer the following questions:  
 
@@ -82,38 +83,44 @@ In the following sections we'll talk more about these _blades_.
 Now you are in a good shape to _prioritize and plan_ your documentation effort.
 
 
-## Blade 3 - Prioritize and Plan your Documentation Effort  
+### Blade 3 - Prioritize and Plan your Documentation Effort  
 
-**Every project is different** and knowing your ground and knowing your needs will give the insights you need. So now it's time to prioritize and plan your documentation efforts. *But how?*  
+**Every project is different** and knowing your ground and knowing your needs increase the knowledge of your own project. With these new insights, you can now prioritize and plan.
 
-**To prioritize your documentation efforts** you have to identify the most critical and the most valuable topic or issue.   
+**To prioritize your documentation efforts** you have to identify:  
 
-Starting with the most critical topic means that you will address the topic which is the most critical to develop your product in the first place.  
+* the most critical topic/issue  
+* the most valuable topic/issue.   
 
-Starting with the most valuable topic means you will address the topic that provides more value to your customer or project in the first place.   
+**Starting with the most critical** topic means that you will *address the topic which is the most critical to develop your product* in the first place.  
 
-**Once you have prioritize what to start improving or managing** create a roadmap to track and update your progress.
+**Starting with the most valuable** topic means that you will *address the topic that provides more value to your customer or project* in the first place.   
+
+**Once you have prioritize what to start improving or managing** create a roadmap or a prioritize backlog to track and update your progress.
 
 !!! help "Help"  
 
     Consider the most critical topic and the most valuable depending on your product, project and business objective.
 
-## Blade 4 - Commitment   
+### Blade 4 - Commitment     
 
-**Now that you know your ground and your needs, and after prioritizing**, it is fundamental that you or your team commit to improve and manage your documentation actively and regularly.   
+!!! info "Info"  
 
-**Committing t improve and manage your documentation** actively and regularly requires some discipline and strenght. _May the Foce be with you!_
+    Improving any documentation project, requires the commitment of both management roles and  development teams.
 
-**To use your commit blade proficiently** follow these steps:
+**Now that you know your ground and your needs, and after prioritizing**, it time to commit to improve and manage your documentation actively and regularly.   
+
+**To support and reinforce you commitment** try these steps:
 
 1. Save a slot of time to manage/improve your documentation.    
 2. Create a reminder.  
-3. Inform other team members about that.  
-4. Stick to it unless there is an emergency.
+3. Involve other team members.  
+4. Inform management roles about this.  
+5. Stick to it unless there is an emergency.
 
 !!! help "Help"  
 
-    You can set a reminder using Outlook, a local script or even a GitHub Action dropping a message in Teams or Slack. 
+    Setting a reminder in Outlook or using a script or GitHub Action is really helpful. 
 
 ## Bonus Information  
 

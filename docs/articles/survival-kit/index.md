@@ -103,12 +103,12 @@ Starting with the most valuable topic means you will address the topic that prov
 
 1. Save a slot of time to manage/improve your documentation.    
 2. Create a reminder.  
-3. Inform other teammembers about that.  
+3. Inform other team members about that.  
 4. Stick to it unless there is an emergency.
 
 !!! help "Help"  
 
-    You can set a reminder using Outlook, a local script or even a GitHub Action dropping a message in Teams or Slack.
+    You can set a reminder using Outlook, a local script or even a GitHub Action dropping a message in Teams or Slack. 
 
 ## Bonus Information  
 

@@ -7,10 +7,10 @@ site_description: >-
 
 # Repository
 # repo_name: 
-# repo_url: 
+repo_url: https://github.com/javierhf/technical-write-me
 #edit_uri: 
 # Copyright
-copyright: Copyright &copy; 2022 Javier Hernández Fernández
+copyright: Copyright &copy; 2023 Javier Hernández Fernández
 
 # Configuration
 theme:

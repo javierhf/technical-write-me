@@ -2,21 +2,21 @@
 
 ## Overview
 
-**My name is Javier Hernández, alias Doc, and I'm a senior technical writer.** I love learning, that's why I'm a technical writer:  
+**My name is Javier Hernández, alias Doc, and I'm a senior technical writer.** I love learning, and this is what I love from being a technical writer:  
 
-* to learn continuously (from users, developers, and subject-matter experts)  
+* I can learn continuously (from users, developers, and subject-matter experts)  
 
-* to be able to ease the process of how they communicate with each other  
+* I can improve the communication between users and product development teams  
 
-* to help the product development team achieve their documentation goals
+* I can support product development teams to improve their documentation
 
-**Technical writing is all about learning** the language and the needs of your readers  and finding a way for successful communication.   
+**Technical writing is all about learning** the language and the needs of your readers, and finding a way for successful communication.   
 
 ## Previous Projects  
 
-**I'm a computer network manager, and translator (a literary critic and a poet too).** This hybrid background allows me to be always prone to learn and keep in mind the users' (readers') point of view. That's why learning is one of my requirements to get involved in a new project.  
+**I'm a computer network manager, and a translator (and literary critic and a poet too).** This hybrid background makes me eager to learn and keep in mind the users' (readers') point of view. 
 
-**Check the following table** to read a quick overview of my latest projects. Each of them has a special place in my journey as a professional:  
+**Check the following table** to read about my latest projects. Each of them has a special place in my journey as a professional:  
 
 |Project | Long Story Short |  
 | ---------- | ----------------- |  

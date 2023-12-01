@@ -28,9 +28,9 @@ The word "reason" caused some controversy within the community** so he had to pr
 
 **Lucky for us we have technical writers, a role that absorbs many of the previous roles:**  
 
-* They edit the collaborations from other team members.  
-* They manage the documentation project and platform.  
-* They collaborate with new content actively.    
+* They edit the collaborations from other team members  
+* They manage the documentation project and platform  
+* They collaborate with new content actively    
   
 **Having a technical writer allows your documentation's collaborators** to focus where they provide more value:
 > While they provide a draft with the right information, the technical writer creates the content.  
@@ -39,9 +39,9 @@ But _how do we apply and support this separation of responsibilities?_
 
 ## Single-Responsibility Principle (SRP) for Documentation Projects
 
-**It seems simple but applying the SRP to documentation projects*requires a little change** in the product team's mindset:  
+**It seems simple but applying the SRP to documentation projects requires a little change** in the product team's mindset:  
 
-* Now they will provide the information.  
+* Now they will provide the information  
 * The technical writes will create the content  
 
 ### Key Concepts  

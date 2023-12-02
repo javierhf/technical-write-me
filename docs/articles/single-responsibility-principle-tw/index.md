@@ -13,9 +13,9 @@ status: new
 
 **This term was created by Robert C. Martin** who expresses the principle as:  
 
-> A class should have only one reason to change".
+> "A class should have only one reason to change".
 
-The word "reason" caused some controversy within the community** so he had to provide further clarification saying that the "principle is about people." He also added that the principle's focus is _roles_ or _actors_.   
+**The word "reason" caused some controversy within the community** so he had to provide further clarification saying that the "principle is about people." He also added that the principle's focus is _roles_ or _actors_.   
 
 !!! info "Info"  
 

@@ -32,7 +32,7 @@ status: new
 * They manage the documentation project and platform  
 * They collaborate with new content actively    
   
-**Having a technical writer allows your documentation's collaborators** to focus where they provide more value:
+**Having a technical writer allows your collaborators (Subject-matter experts)** to focus where they provide more value:
 > While they provide a draft with the right information, the technical writer creates the content.  
 
 But _how do we apply and support this separation of responsibilities?_

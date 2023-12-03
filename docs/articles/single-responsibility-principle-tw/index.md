@@ -67,9 +67,11 @@ But _how do we apply and support this separation of responsibilities?_
 
 **This is the new mindset: assigning a limited and specific set of tasks**, for all the roles participating in the documentation workflow, to ensure we all add value where we have to.  
 
-Additionally, the Single Responsibility Principle (SRP) for documentation projects changes the idea of _individual ownership_ regarding the documentation. Now that all the documentation roles contribute to the final documentation: _we all own the docs_.  
+The Single Responsibility Principle (SRP) for documentation projects changes the idea of documentation ownership. We will not have _individual ownership_ anymore but an idea of _shared ownership_.   
 
-This idea of _shared ownership_ may be not easy to accept for everyone. The technical writer can reduce this possible friction with an effective communication strategy.
+Now that all the documentation roles contribute to the final documentation: _we all own the docs!_.  
+
+This idea of _shared ownership_ may be not easy to accept for everyone but the technical writer can reduce any possible friction with an effective communication strategy.
 
 
 

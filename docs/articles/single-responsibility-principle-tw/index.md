@@ -61,9 +61,16 @@ But _how do we apply and support this separation of responsibilities?_
 | ------------- | --------------- |    
 | **Collaborators** | Provide information which:<ol><li> is correct</li><li>is in the right order</li><li>is in the right context.</li></ol> |  
 | **Reviewers** |	Validate the information provided by collaborators when required.|  
-| **Technical Writer** | <ol><li>Converts information into content.</li><li>Manages release process.</li><ol> |  
+| **Technical Writer** | <ol><li>Converts information into content.</li><li>Manages release process.</li><ol> |    
 
-**This is the new mindset: Single Responsibility Principle for documentation projects.** It will help you to increase the quality of your documentation and to ensure that your team members focus where they provide more value.
+## Conclusion
+
+**This is the new mindset: assigning a limited and specific set of tasks**, for all the roles participating in the documentation workflow, to ensure we all add value where we have to.  
+
+Additionally, the Single Responsibility Principle (SRP) for documentation projects changes the idea of _individual ownership_ regarding the documentation. Now that all the documentation roles contribute to the final documentation: _we all own the docs_.  
+
+This idea of _shared ownership_ may be not easy to accept for everyone. The technical writer can reduce this possible friction with an effective communication strategy.
+
 
 
      

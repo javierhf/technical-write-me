@@ -5,7 +5,7 @@ status: new
 
 # Developer Documentation Survival Kit   
 
-!!! help ""  
+!!! help "Reminder"  
 
     Good documentation makes your work more efficient, and contributes to your users' satisfaction.
 

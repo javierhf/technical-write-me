@@ -1,9 +1,13 @@
 ---
 title: Single-Responsibility Principle for Documentation Projects   
-status: new
 ---   
 
-# Single-Responsibility Principle for Documentation Projects     
+# Single-Responsibility Principle for Documentation Projects       
+
+> **What this article covers**  
+> _A customized application of the single-responsibility principle for technical writing._   
+> **Tools**  
+> _N/A._  
 
 ## Overview  
 

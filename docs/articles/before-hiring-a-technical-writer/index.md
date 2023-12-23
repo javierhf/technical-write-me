@@ -3,35 +3,47 @@ title: Single-Responsibility Principle for Documentation Projects
 status: new
 ---   
 
-# Before Hiring a Technical Writer     
+# Maximizing Success: Key Considerations Before Hiring a Technical Writer
+
+> **What this article covers**  
+> _Some considerations for companies when hiring a technical writer._   
+> **Tools**  
+> _N/A._  
 
 ## Overview    
 
-**The decision of hiring a technical writer comes after targeting a need** in our product development. In this case we may need to improve an existing documentation project (user guides, API or developer documentation) or create our product's documentation from scratch.  
+**Hiring a technical writer is not just an expense but an investment,** an opportunity to enhance our product's quality. Before embarking on your quest to find the ideal technical writer, consider the following sections to:
 
-Whatever our case may be, in this article I'll share some ideas to consider before hiring a technical writer.  
+* Help you define your requirements more precisely.
+* Facilitate a more effective communication with your technical writer.  
 
-## Identify Your Project Needs and Resources   
+## Your Project Needs and Resources   
 
-**Before starting to sail LinkedIn or Internet** for a technical writer, consider the following table with questions to identify your needs and resources better:      
+**Understanding your project's specific needs and the resources at your disposal is crucial** for saving time, and avoiding misunderstandings and misalignments in the future.  
+
+**While technical writers are experts in their field,** it is essential for you to be able to articulate your needs clearly. 
+
+Here is a table with questions to guide your initial considerations:  
+ 
+      
 
 | Question |  Helps you to |  
 |------------- |-------------- |   
-| **Why do you need a technical writer?**<ul><li>Just to manage and improve your existing  documentation?</li><li>To create your product or development documentation?</li></ul> |State and visualize the technical writing needs of your product.|  
-| **What type of documentation do you need a technical writer for?**<ul><li>API documentation</li><li>User guides</li><li>Project documentation? Developer documentation?</li></ul> | Hire the right technical writer and determine your priority.|    
-| **How do you picture your documentation?** | Explain the technical writer your idea or what you are expecting. |  
-| **What is you budget for a technical writer?** | Estimate the project and contract duration in advance so that the technical writers can prioritize what needs to be done.|
+| **Why do I need a technical writer?**<ul><li>Is it to manage and refine existing documentation?</li><li>Or to develop new product or technical documentation from scratch?</li></ul> |Clarify and visualize the specific technical writing requirements for your product.|  
+| **How do I envision my project's documentation?** | Convey your expectations and vision to the technical writer. Highlight your priorities but remain open to potential adjustments. |  
+| **What budget is allocated for hiring a technical writer?** | Budget awareness facilitates planning by estimating the project scope and duration, and allowing the technical writer to align their efforts accordingly.|
   
-**Having a previous idea of what we want and how long we can pay for it:**   
+**Taking these questions into account is invaluable for:**
 
-* allows us to establish a fair professional relationship with our future technical writer  
-* allows the technical writer to plan and align with our expectations  
-
-
+* Establishing a mutually beneficial professional relationship.
+* Planning effectively, aligning your expectations with realistic timelines and outcomes.
 
 
+## Conclusion  
 
-## Conclusion
+**Hiring a technical writer is a thoughtful investment,** a strategic step leading the way to  your product's success and quality.   
+
+By clearly *understanding your project's needs* and *envisioning the desired outcomes,* you'll be establishing the foundations of a sucessful collaboration that benefits both your product and your users.
 
 
      

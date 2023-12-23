@@ -27,7 +27,7 @@ Here is a table with questions to guide your initial considerations:
 
 | Question |  Insights |  
 |------------- |-------------- |   
-| **Why do I need a technical writer?**<ul><li>Is it to manage and refine existing documentation?</li><li>Or to develop new product or technical documentation from scratch?</li></ul> | Naming the documentation needs of your project helps you to differentiate between the required and the desired tech stack, background, and experience of your technical writer.|  
+| **Why do I need a technical writer?** | <ul><li>Is it to manage and refine existing documentation?</li><li>Or to develop new product or technical documentation from scratch?</li></ul><br>Naming the documentation needs of your project helps you to differentiate between the required and the desired tech stack, background, and experience of your technical writer.|  
 | **How do I envision my project's documentation?** | Convey your expectations and vision to the technical writer even during the interview. Highlight your priorities but remain open to potential adjustments. |  
 | **What budget is allocated for hiring a technical writer?** | Budget awareness facilitates planning by estimating the project scope and duration, allowing the technical writer to align their efforts accordingly.|
   

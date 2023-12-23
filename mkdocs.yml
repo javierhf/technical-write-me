@@ -108,7 +108,6 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Articles:
-      - Overview: articles/index.md    
       - Developer Documentation Survival Kit: articles/survival-kit/index.md
       - Improving Your Documentation Project:
           - First Steps: articles/improving-documentation-projects-1/index.md  

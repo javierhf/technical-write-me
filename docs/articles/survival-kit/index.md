@@ -3,11 +3,12 @@ title: Developer Documentation Survival Kit
 status: new
 ---  
 
-# Developer Documentation Survival Kit   
+# Developer Documentation Survival Kit     
 
-!!! help "Reminder"  
-
-    Good documentation makes your work more efficient, and contributes to your users' satisfaction.
+> **What this article covers**  
+> _Some considerations for companies when hiring a technical writer._   
+> **Tools**  
+> _N/A._ 
 
 ## Overview  
 
@@ -25,7 +26,11 @@ status: new
 - [x] Direct communication with management roles 
 - [x] Save a small slot of time for documentation work  
 
-## Swiss Knife    
+## Swiss Knife      
+
+!!! info "Reminder"  
+
+    Good documentation makes your work more efficient, and contributes to your users' satisfaction.
 
 **The swiss knife to manage and improve documentation projects** includes the following set of fundamental ideas (blades):  
 
